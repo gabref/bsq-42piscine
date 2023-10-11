@@ -1,0 +1,11 @@
+# object files
+*.o
+*.ko
+*.obj
+
+# executables
+*.exe
+*.out
+
+# mac stuff
+.DS_Store
